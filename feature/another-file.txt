@@ -1,1 +1,3 @@
 This is content of another-file.txt
+
+A small modification in another-file.txt
